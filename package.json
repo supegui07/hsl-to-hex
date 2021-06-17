@@ -1,0 +1,20 @@
+{
+  "name": "hsl-to-hex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --cov test",
+    "lint": "standard"
+  },
+  "keywords": [],
+  "author": "Santiago Upegui G.",
+  "license": "ISC",
+  "dependencies": {
+    "hsl-to-rgb-for-reals": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3",
+    "tap": "^15.0.9"
+  }
+}
