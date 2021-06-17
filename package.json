@@ -1,7 +1,7 @@
 {
-  "name": "hsl-to-hex",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@supegui/hsl-to-hex",
+  "version": "1.0.1",
+  "description": "Convert HSL colors to RGB colors in hex format.",
   "main": "index.js",
   "scripts": {
     "test": "tap --cov test",
@@ -16,5 +16,16 @@
   "devDependencies": {
     "standard": "^16.0.3",
     "tap": "^15.0.9"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supegui07/hsl-to-hex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/supegui07/hsl-to-hex/issues"
+  },
+  "homepage": "https://github.com/supegui07/hsl-to-hex#readme"
 }
